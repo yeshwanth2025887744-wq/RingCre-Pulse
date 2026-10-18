@@ -1,0 +1,8 @@
+{
+  "name": "RiskPulse - AI Underwriting Platform",
+  "description": "Enterprise AI underwriting copilot for commercial insurance lines, portfolio risk analysis, appetite matching, and instant automated risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
